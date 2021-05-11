@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuamberKhan
 - 👀 I’m interested in Building amazing web and desktop applications
-- 🌱 I’m currently learning .net core
-- 💞️ I’m looking to collaborate on .net framework
+- 🌱 I’m currently learning .net core and creating cool projects...
+- 💞️ I’m looking for an oppertunity to work on .net framework and make my career
 - 📫 How to reach me ...
 
 <!---
